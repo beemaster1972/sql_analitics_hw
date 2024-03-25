@@ -34,7 +34,7 @@ begin
 END $$
 DELIMITER ;
 
-select GetFormatDays(4206);
+select GetFormatDays(154206);
 
 -- ЗАДАНИЕ 2
 -- Выведите только четные числа от 1 до 10. Пример: 2,4,6,8,10 
